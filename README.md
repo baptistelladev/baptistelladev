@@ -1,4 +1,4 @@
-Atuo na área de front-end há mais de 7 anos. Este GitHub é recente, minha conta antiga perdido é https://github.com/baptistellafe.
+Atuo na área de front-end há mais de 7 anos. Este GitHub é recente, minha conta antiga é https://github.com/baptistellafe.
 
 Tecnologias que utilizo no dia a dia.
 <br>
