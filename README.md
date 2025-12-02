@@ -1,6 +1,6 @@
-Atuo na área de front-end há mais de 7 anos. Este GitHub é recente, minha conta antiga é https://github.com/baptistellafe.
+Atuo na área de front-end há mais de 7 anos. Visite meu portfólio: https://felipebaptistella.com.br/. Este GitHub é mais recente, minha conta antiga é https://github.com/baptistellafe.
 
-Tecnologias que utilizo no dia a dia.
+Algumas das tecnologias que utilizo no dia a dia.
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" height="25" />
